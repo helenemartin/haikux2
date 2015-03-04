@@ -1,4 +1,4 @@
 #HaikuX2
 bbbbbbbb
 
-![Viktor](http://full/path/to/Camden2.jpg "Optional title" “Flyer”)
+![Camden](https://github.com/helenemartin/haikux2/blob/master/Camden2.jpg)
