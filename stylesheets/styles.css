@@ -122,7 +122,7 @@ header ul {
   width:270px;
 }
 
-header li {
+/*header li {
   width:89px;
   float:left;
   border-right:1px solid #d2d2d2;
@@ -138,14 +138,14 @@ header ul a {
   padding-top:6px;
   height:40px;
 }
-
+*/
 
 strong {
   color:#222;
   font-weight:700;
 }
 
-header ul li + li {
+/*header ul li + li {
   width:88px;
   border-left:1px solid #fff;
 }
@@ -159,7 +159,7 @@ header ul a strong {
   font-size:14px;
   display:block;
   color:#222;
-}
+}*/
 
 section {
   width:500px;
