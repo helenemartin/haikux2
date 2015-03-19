@@ -106,7 +106,7 @@ header ul {
   list-style:none;
   height:100px;
   
-  padding:0;
+  padding:5px;
   
   background: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
