@@ -42,7 +42,7 @@ a {
 a small {
   font-size:11px;
   color:#777;
-  margin-top:-0.6em;
+  margin-top: 5px;
   display:block;
 }
 
@@ -170,10 +170,7 @@ section {
   padding-bottom:50px;
 }
 
-small {
-  font-size:11px;
-  padding: 10px 0;
-}
+
 
 hr {
   border:0;
